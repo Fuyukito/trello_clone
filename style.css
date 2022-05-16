@@ -130,11 +130,20 @@ div {
   color: rgb(173, 173, 173);
 }
 
-.fa-solid, .fa-brands {
+.fa-solid {
   color: #585858;
-  font-size: 21px;
+  font-size: 22px;
 }
 
-.fa-solid:hover, .fa-brands:hover {
+.fa-solid:hover {
+  color: #ffffff;
+}
+
+.fa-brands {
+  color: #c7c7c7;
+  font-size: 15px;
+}
+
+.fa-brands:hover {
   color: #ffffff;
 }
