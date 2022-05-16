@@ -1,7 +1,7 @@
 body {
   font-family: sans-serif;
-  color: #110b68;
-  background-color: #9cd2e7;
+  color: #033542;
+  background-color: #d7edf3;
   display: flex;
   align-items: start;
 }
@@ -31,8 +31,8 @@ div {
 
 .editing {
   background: white;
-  color: #4d174a !important;
-  box-shadow:inset 0px 0px 0px 2px #bf0270;
+  color: #1c174d !important;
+  box-shadow:inset 0px 0px 0px 2px #024ebf;
 }
 
 .editing:hover {
