@@ -40,7 +40,7 @@ div {
 }
 
 .card {
-  background: white;
+  background: rgb(255, 255, 255);
   border-bottom: 1px solid #aaa;
 }
 
@@ -65,7 +65,7 @@ div {
     min-width: 280px;
     margin: 10px 5px;
     position: relative;
-    background: #ff86ff;
+    background: #ffaaff;
   }
 
 .list3 {
@@ -111,7 +111,7 @@ div {
   display: inline-block;
   padding: 10px;
   margin-top: 0px;
-  color: gray;
+  color: rgb(90, 90, 90);
   text-decoration: none;
 /*   border-bottom: 1px solid #dfe1e6; */
 }
