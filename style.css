@@ -4,7 +4,12 @@ body {
   background-color: #d7edf3;
   display: flex;
   align-items: start;
+  margin-top: 25px;
+  margin-left: 25px;
+  margin-right: 25px;
+  }
 }
+
 
 div {
   border-radius: 3px;
@@ -122,5 +127,14 @@ div {
 
 .del {
   font-weight: 600;
-  color: gray;
+  color: rgb(173, 173, 173);
+}
+
+.fa-solid, .fa-brands {
+  color: #585858;
+  font-size: 21px;
+}
+
+.fa-solid:hover, .fa-brands:hover {
+  color: #ffffff;
 }
